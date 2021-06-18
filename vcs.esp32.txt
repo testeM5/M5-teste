@@ -2,12 +2,12 @@
   "swVersion": "1.9",
   "swMandatory": true,
   "swRelease": "2021-06-08T14:21:56Z",
-  "swURL": "https://dl.dropboxusercontent.com/s/1ma1zdim4k2csxl/M5-OTA.ino.m5stick_c.bin?raw=1", 
+  "swURL": "https://dl.dropboxusercontent.com/s/l25gv97xptyphg1/M5-OTA-Code.txt", 
   "swName": "M5-OTA.bin",
   "fsVersion": "1.1",
   "fsMandatory": false,
   "fsRelease": "2021-06-08T13:30:00Z",
-  "fsURL": "https://dl.dropboxusercontent.com/s/5tj453af5wl6bhh/IeC122-ControleVersao.spiffs.esp32.bin",
+  "fsURL": "https://raw.githubusercontent.com/testeM5/M5-teste/main/M5-OTA.ino?token=AUGOKOKOVE3C7N37AYN6Z7TAZQRJQ",
   "fsName": "M5-OTA-fs.bin"
 }
 
