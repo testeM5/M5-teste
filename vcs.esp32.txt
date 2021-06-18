@@ -1,6 +1,6 @@
 {
   "swVersion": "1.0",
-  "swMandatory": true,
+  "swMandatory": false,
   "swRelease": "2021-06-08T14:21:56Z",
   "swURL": "", 
   "swName": "M5-OTA-Github-1.0.bin",
