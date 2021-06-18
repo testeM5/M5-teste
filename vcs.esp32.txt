@@ -2,7 +2,7 @@
   "swVersion": "1.0",
   "swMandatory": false,
   "swRelease": "2021-06-08T14:21:56Z",
-  "swURL": "", 
+  "swURL": "https://testem5.github.io/M5-teste/M5-OTA.ino.m5stick_c.bin", 
   "swName": "M5-OTA-Github-1.0.bin",
   "fsVersion": "1.1",
   "fsMandatory": false,
