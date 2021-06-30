@@ -1,13 +1,13 @@
 {
   "swVersion": "1.0",
   "swMandatory": false,
-  "swRelease": "2021-06-08T14:21:56Z",
+  "swRelease": "2021-06-30T17:44:56Z",
   "swURL": "https://testem5.github.io/M5-teste/M5-OTA-GitHub-teste2.ino.m5stick_c.bin", 
   "swName": "M5-OTA-Github-1.0.bin",
-  "fsVersion": "0.0",
-  "fsMandatory": false,
-  "fsRelease": "2021-06-08T13:30:00Z",
+  "fsVersion": "",
+  "fsMandatory": ,
+  "fsRelease": "",
   "fsURL": "",
-  "fsName": "M5-OTA-GitHub-1.0-fs.bin"
+  "fsName": ""
 }
 
